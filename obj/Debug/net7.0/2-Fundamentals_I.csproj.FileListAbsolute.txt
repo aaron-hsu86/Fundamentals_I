@@ -1,0 +1,15 @@
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\bin\Debug\net7.0\2-Fundamentals_I.exe
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\bin\Debug\net7.0\2-Fundamentals_I.deps.json
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\bin\Debug\net7.0\2-Fundamentals_I.runtimeconfig.json
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\bin\Debug\net7.0\2-Fundamentals_I.dll
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\bin\Debug\net7.0\2-Fundamentals_I.pdb
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\obj\Debug\net7.0\2-Fundamentals_I.csproj.AssemblyReference.cache
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\obj\Debug\net7.0\2-Fundamentals_I.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\obj\Debug\net7.0\2-Fundamentals_I.AssemblyInfoInputs.cache
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\obj\Debug\net7.0\2-Fundamentals_I.AssemblyInfo.cs
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\obj\Debug\net7.0\2-Fundamentals_I.csproj.CoreCompileInputs.cache
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\obj\Debug\net7.0\2-Fundamentals_I.dll
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\obj\Debug\net7.0\refint\2-Fundamentals_I.dll
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\obj\Debug\net7.0\2-Fundamentals_I.pdb
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\obj\Debug\net7.0\2-Fundamentals_I.genruntimeconfig.cache
+E:\Users\Documents\School\Coding Dojo\Coding\C#\1-C#.NET\2-Fundamentals_I\obj\Debug\net7.0\ref\2-Fundamentals_I.dll
